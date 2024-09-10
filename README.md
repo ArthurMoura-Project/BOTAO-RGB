@@ -1,6 +1,6 @@
 🔴Botão de input RGB para por em seus projetos...®️
 
-📌Link: https://arthurmoura-project.github.io/BOTAO-RGB/ 
+📌Link: https://arthurmoura-project.github.io/BOTAO-RGB/ ✔️
 
 👀 Preview◽
 
